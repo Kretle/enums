@@ -1,0 +1,15 @@
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.exe
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.deps.json
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.runtimeconfig.json
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.runtimeconfig.dev.json
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.dll
+C:\Users\sollu\source\repos\enums\enums\bin\Debug\net5.0\enums.pdb
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.AssemblyInfoInputs.cache
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.AssemblyInfo.cs
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.csproj.CoreCompileInputs.cache
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.dll
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\refint\enums.dll
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.pdb
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\enums.genruntimeconfig.cache
+C:\Users\sollu\source\repos\enums\enums\obj\Debug\net5.0\ref\enums.dll
